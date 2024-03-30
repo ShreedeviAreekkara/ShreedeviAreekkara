@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreedevi A</h1>
 <h3 align="center">A passionate Software Tester</h3>
 
-- 🔭 I’m currently working on **Manual testing**
+- 🔭 I’m currently working on **Software testing**
 
 - 🌱 I’m currently learning **Automation testing using Selenium (Java)**
 
