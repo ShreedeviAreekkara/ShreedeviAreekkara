@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Software testing**
 
-- 🌱 I’m currently learning **Automation testing using Selenium (Java)**
+- 🌱 I’m currently learning **Automation testing (Java)**
 
-- 📫 How to reach me **shreedevi2198@gmail.com**
+- 📫 How to reach me **suryashree2211@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
